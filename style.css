@@ -16,7 +16,6 @@ h1{
     margin: 30px auto;
     padding: 15px 20px;
     background-color: rgb(59, 59, 59);
-    filter: drop-shadow(5px 5px 10px white);
 }
 .row{
     display: flex;
